@@ -24,7 +24,7 @@ function vtlai_popup()
    sinhvienit=1;
    var Time_expires = 24 * 3600 * 1000;
    SVIT_ADS_SetCookie('sinhvienit_popup_ads','true',Time_expires);
-   var urllist = ['http://www.bay68.com/','http://www.topphimtuan.com/'];
+   var urllist = ['http://www.mynu.info/','http://www.teen.mynu.info/'];
    var url = urllist[Math.floor(Math.random() * urllist.length)];
    var params = 'width=' + '300';
    params += ', height=' + '300';
